@@ -1,32 +1,32 @@
 body {
-    padding: 1.5rem;
-    text-align: center;
+  padding: 1.5rem;
+  text-align: center;
 }
 
 #joke-container {
-    max-width: 500px;
-    margin: 0 auto;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 #joke-display {
-    margin-top: 2rem;
-    text-align: center;
+  margin-top: 2rem;
+  text-align: center;
 }
 
 #joke-dad {
-    font-size: 1.25rem;
-    color: #555;
-    margin: 1rem 0;
+  font-size: 1.25rem;
+  color: #555;
+  margin: 1rem 0;
 }
 
 #joke-drum {
-    font-size: 1.25rem;
-    background-color: #6d684d;
-    color:white;
-    margin: 1rem 0;
+  font-size: 1.25rem;
+  background-color: #6d684d;
+  color: white;
+  margin: 1rem 0;
 }
 
 #joke-text {
-    margin-top: 2rem;
-    font-size: 1.75rem;
+  margin-top: 2rem;
+  font-size: 1.75rem;
 }
